@@ -4,7 +4,7 @@ I'm a passionate Software Engineer & Application Developer, currently diving dee
 
  🔭 My software journey started at Chitkara University, Got my footing in programming and algorithms, which sparked my love for coding.</br></br>
  🌱 Dove into Mobile Application Development course at George Brown College, Toronto, where I learned to build apps from scratch.</br></br>
- 👯 Ongoing Growth: Always excited to learn new things and tackle new challenges in the tech world.</br>
+ 👯 Always excited to learn new things and tackle new challenges in the tech world.</br>
 
  
 # 💻 Tech Stack:
